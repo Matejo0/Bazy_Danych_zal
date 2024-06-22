@@ -1,0 +1,20 @@
+{
+  "name": "sklepinternetowy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "HTML Template/sass /sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKawcz/Sklep_Internetowy2.git"
+  },
+  "author": "mikolaj kawczynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKawcz/Sklep_Internetowy2/issues"
+  },
+  "homepage": "https://github.com/MKawcz/Sklep_Internetowy2#readme"
+}
